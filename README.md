@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://devabs.hashnode.dev/](https://devabs.hashnode.dev/)
 
-- 💬 Ask me about **HTML, CSS, Tailwind, Javascript**
+- 💬 Ask me about **HTML, CSS, Tailwind, Javascript, React**
 
 - 📫 How to reach me **dellabhishek7487@gmail.com**
 
