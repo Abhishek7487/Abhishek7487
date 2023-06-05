@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://abhishek-patil-portfolio.netlify.app/#](https://abhishek-patil-portfolio.netlify.app/#)
-
 - 📝 I regularly write articles on [https://devabs.hashnode.dev/](https://devabs.hashnode.dev/)
 
 - 💬 Ask me about **HTML, CSS, Tailwind, Javascript, React**
